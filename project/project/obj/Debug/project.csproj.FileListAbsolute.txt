@@ -1,0 +1,12 @@
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\bin\Debug\project.exe.config
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\bin\Debug\project.exe
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\bin\Debug\project.pdb
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form1.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.exe
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.pdb
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form2.resources
