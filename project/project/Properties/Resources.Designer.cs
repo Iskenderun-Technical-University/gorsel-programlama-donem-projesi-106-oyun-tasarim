@@ -63,6 +63,16 @@ namespace project.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap door_open {
+            get {
+                object obj = ResourceManager.GetObject("door_open", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap tinywow_WhatsApp_Image_2022_11_26_at_04_28_53_8710350 {
             get {
                 object obj = ResourceManager.GetObject("tinywow_WhatsApp Image 2022-11-26 at 04.28.53_8710350", resourceCulture);
@@ -186,6 +196,66 @@ namespace project.Properties {
         internal static System.Drawing.Bitmap WhatsApp_Image_2022_11_29_at_8_49_02_PM {
             get {
                 object obj = ResourceManager.GetObject("WhatsApp Image 2022-11-29 at 8.49.02 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2022_11_29_at_8_491 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2022-11-29 at 8.491", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2022_11_30_at_12_29_42 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2022-11-30 at 12.29.42", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2022_11_30_at_12_49_49_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2022-11-30 at 12.49.49 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2022_11_30_at_12_51_41_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2022-11-30 at 12.51.41 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2022_11_30_at_2_25_46_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2022-11-30 at 2.25.46 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2022_12_01_at_1_32_19_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2022-12-01 at 1.32.19 AM", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
