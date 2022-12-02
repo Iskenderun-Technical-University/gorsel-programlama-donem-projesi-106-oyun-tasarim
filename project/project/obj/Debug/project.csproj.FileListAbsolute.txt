@@ -10,3 +10,4 @@ C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-
 C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.exe
 C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.pdb
 C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form2.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form3.resources
