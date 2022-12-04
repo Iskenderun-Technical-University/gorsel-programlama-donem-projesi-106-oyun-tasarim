@@ -81,6 +81,9 @@
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -163,6 +166,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\WhatsApp Image 2022-12-01 at 1.32.19 AM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-closed4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-open4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platform4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platform5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player4.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
