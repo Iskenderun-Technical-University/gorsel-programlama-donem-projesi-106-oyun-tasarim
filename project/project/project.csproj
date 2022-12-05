@@ -99,6 +99,9 @@
     <EmbeddedResource Include="Form5.resx">
       <DependentUpon>Form5.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -205,6 +208,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\player4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-close6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-open6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platform51.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platform6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player6.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

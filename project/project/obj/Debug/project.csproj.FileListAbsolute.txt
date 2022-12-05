@@ -26,3 +26,18 @@ C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\
 C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.pdb
 C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form4.resources
 C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form5.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\bin\Debug\project.exe.config
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\bin\Debug\project.exe
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\bin\Debug\project.pdb
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form1.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form2.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form3.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form4.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form5.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.exe
+C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.pdb
