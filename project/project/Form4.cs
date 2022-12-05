@@ -195,5 +195,26 @@ namespace project
         {
 
         }
+
+        private void door4_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void key4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void door4_Click_1(object sender, EventArgs e)
+        {
+            Form5 foorm5 = new Form5();
+            foorm5.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

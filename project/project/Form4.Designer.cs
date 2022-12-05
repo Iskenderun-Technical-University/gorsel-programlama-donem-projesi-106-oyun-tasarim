@@ -30,9 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             this.background4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.door4 = new System.Windows.Forms.PictureBox();
-            this.key4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
@@ -60,12 +57,12 @@
             this.pictureBox27 = new System.Windows.Forms.PictureBox();
             this.txtScore4 = new System.Windows.Forms.Label();
             this.GameTimer4 = new System.Windows.Forms.Timer(this.components);
-            this.player4 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.door4 = new System.Windows.Forms.PictureBox();
+            this.player4 = new System.Windows.Forms.PictureBox();
+            this.key4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.background4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.door4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.key4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -91,8 +88,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.player4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.door4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.player4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.key4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // background4
@@ -100,44 +100,11 @@
             this.background4.Image = global::project.Properties.Resources.background4;
             this.background4.Location = new System.Drawing.Point(0, 0);
             this.background4.Name = "background4";
-            this.background4.Size = new System.Drawing.Size(1788, 483);
+            this.background4.Size = new System.Drawing.Size(1791, 483);
             this.background4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.background4.TabIndex = 0;
             this.background4.TabStop = false;
             this.background4.Tag = "background4";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::project.Properties.Resources.door_open4;
-            this.pictureBox1.Location = new System.Drawing.Point(1676, 310);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(63, 50);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
-            // door4
-            // 
-            this.door4.Image = global::project.Properties.Resources.door_closed4;
-            this.door4.Location = new System.Drawing.Point(1677, 310);
-            this.door4.Name = "door4";
-            this.door4.Size = new System.Drawing.Size(62, 50);
-            this.door4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.door4.TabIndex = 2;
-            this.door4.TabStop = false;
-            this.door4.Tag = "door4";
-            // 
-            // key4
-            // 
-            this.key4.Image = global::project.Properties.Resources.key4;
-            this.key4.Location = new System.Drawing.Point(1653, 9);
-            this.key4.Name = "key4";
-            this.key4.Size = new System.Drawing.Size(38, 23);
-            this.key4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.key4.TabIndex = 3;
-            this.key4.TabStop = false;
-            this.key4.Tag = "key4";
-            this.key4.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox3
             // 
@@ -418,7 +385,7 @@
             // 
             this.txtScore4.AutoSize = true;
             this.txtScore4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtScore4.Location = new System.Drawing.Point(12, 9);
+            this.txtScore4.Location = new System.Drawing.Point(44, 9);
             this.txtScore4.Name = "txtScore4";
             this.txtScore4.Size = new System.Drawing.Size(108, 20);
             this.txtScore4.TabIndex = 31;
@@ -430,35 +397,72 @@
             this.GameTimer4.Interval = 20;
             this.GameTimer4.Tick += new System.EventHandler(this.maintimerevent4);
             // 
-            // player4
-            // 
-            this.player4.Image = global::project.Properties.Resources.player4;
-            this.player4.Location = new System.Drawing.Point(33, 313);
-            this.player4.Name = "player4";
-            this.player4.Size = new System.Drawing.Size(73, 47);
-            this.player4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.player4.TabIndex = 32;
-            this.player4.TabStop = false;
-            this.player4.Click += new System.EventHandler(this.player4_Click);
-            // 
             // pictureBox2
             // 
             this.pictureBox2.Image = global::project.Properties.Resources.platform5;
-            this.pictureBox2.Location = new System.Drawing.Point(-11, 366);
+            this.pictureBox2.Location = new System.Drawing.Point(-12, 365);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(1799, 114);
+            this.pictureBox2.Size = new System.Drawing.Size(1803, 114);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 33;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Tag = "platform4";
             // 
+            // door4
+            // 
+            this.door4.Image = global::project.Properties.Resources.WhatsApp_Image_2022_12_01_at_1_32_19_AM;
+            this.door4.Location = new System.Drawing.Point(1693, 314);
+            this.door4.Name = "door4";
+            this.door4.Size = new System.Drawing.Size(57, 51);
+            this.door4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.door4.TabIndex = 34;
+            this.door4.TabStop = false;
+            this.door4.Tag = "door4";
+            this.door4.Click += new System.EventHandler(this.door4_Click_1);
+            // 
+            // player4
+            // 
+            this.player4.Image = global::project.Properties.Resources.player4;
+            this.player4.Location = new System.Drawing.Point(37, 312);
+            this.player4.Name = "player4";
+            this.player4.Size = new System.Drawing.Size(75, 53);
+            this.player4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.player4.TabIndex = 35;
+            this.player4.TabStop = false;
+            // 
+            // key4
+            // 
+            this.key4.Image = global::project.Properties.Resources.key4;
+            this.key4.Location = new System.Drawing.Point(1693, 12);
+            this.key4.Name = "key4";
+            this.key4.Size = new System.Drawing.Size(46, 29);
+            this.key4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.key4.TabIndex = 36;
+            this.key4.TabStop = false;
+            this.key4.Tag = "key4";
+            this.key4.Click += new System.EventHandler(this.key4_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::project.Properties.Resources.door_open4;
+            this.pictureBox1.Location = new System.Drawing.Point(1627, 314);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(60, 51);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 37;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(551, 469);
-            this.Controls.Add(this.pictureBox2);
+            this.ClientSize = new System.Drawing.Size(1762, 436);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.key4);
             this.Controls.Add(this.player4);
+            this.Controls.Add(this.door4);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.txtScore4);
             this.Controls.Add(this.pictureBox27);
             this.Controls.Add(this.pictureBox26);
@@ -485,9 +489,6 @@
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.key4);
-            this.Controls.Add(this.door4);
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.background4);
             this.Name = "Form4";
             this.Text = "Form4";
@@ -495,9 +496,6 @@
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.keyIsDown4);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.keyIsUp4);
             ((System.ComponentModel.ISupportInitialize)(this.background4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.door4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.key4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
@@ -523,8 +521,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.player4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.door4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.player4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.key4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -533,9 +534,6 @@
         #endregion
 
         private System.Windows.Forms.PictureBox background4;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.PictureBox door4;
-        private System.Windows.Forms.PictureBox key4;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox5;
@@ -563,7 +561,10 @@
         private System.Windows.Forms.PictureBox pictureBox27;
         private System.Windows.Forms.Label txtScore4;
         private System.Windows.Forms.Timer GameTimer4;
-        private System.Windows.Forms.PictureBox player4;
         private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox door4;
+        private System.Windows.Forms.PictureBox player4;
+        private System.Windows.Forms.PictureBox key4;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
