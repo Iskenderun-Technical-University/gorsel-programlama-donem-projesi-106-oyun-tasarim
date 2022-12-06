@@ -216,5 +216,10 @@ if (player.Top + player.Height > this.ClientSize.Height)
         {
 
         }
+
+        private void player_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
