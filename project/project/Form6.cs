@@ -194,8 +194,14 @@ namespace project
 
         private void door6_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form8 foorm8 = new Form8();
             foorm8.Show();
+        }
+
+        private void background6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -43,3 +43,8 @@ C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oy
 C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.pdb
 C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form6.resources
 C:\Users\AL BARAA PC\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form8.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form4.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form5.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form6.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form8.resources
+C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form9.resources

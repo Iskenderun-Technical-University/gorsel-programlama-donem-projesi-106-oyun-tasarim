@@ -24,8 +24,14 @@ namespace project
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form2 foorm2 = new Form2();
             foorm2.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -19,14 +19,28 @@ namespace project
 
         private void Form3_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form4 foorm4 = new Form4();
-            foorm4.Show();
+            Form3 foorm3 = new Form3();
+            {
+                if (checkBox1.Checked)
+
+                    foorm4.Show();
+                else
+                    MessageBox.Show("your answer is incorrect,try again");
+                foorm3.Show();
+                
+
+
+            }
+            
         }
+
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {

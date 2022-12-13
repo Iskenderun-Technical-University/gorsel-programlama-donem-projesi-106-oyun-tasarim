@@ -203,16 +203,32 @@ namespace project
 
         private void key4_Click(object sender, EventArgs e)
         {
-
+           
         }
 
         private void door4_Click_1(object sender, EventArgs e)
         {
+            this.Hide();
             Form5 foorm5 = new Form5();
             foorm5.Show();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void background4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void player4_Click_1(object sender, EventArgs e)
         {
 
         }

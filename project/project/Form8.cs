@@ -31,11 +31,17 @@ namespace project
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form9 foorm9 = new Form9();
             foorm9.Show();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
         {
             this.Close();
         }

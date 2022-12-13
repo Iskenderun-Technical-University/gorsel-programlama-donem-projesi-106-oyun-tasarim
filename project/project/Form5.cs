@@ -24,6 +24,7 @@ namespace project
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form6 foorm6 = new Form6();
             foorm6.Show();
         }
