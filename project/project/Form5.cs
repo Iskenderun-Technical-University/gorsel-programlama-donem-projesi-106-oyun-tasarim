@@ -26,13 +26,36 @@ namespace project
         {
             this.Hide();
             Form6 foorm6 = new Form6();
-            foorm6.Show();
+            Form5 foorm5 = new Form5();
+            {
+                if (checkBox2.Checked)
+
+                    foorm6.Show();
+                else
+                    MessageBox.Show("your answer is incorrect,try again");
+                foorm5.Show();
+
+               
+           
+           
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+       
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
         {
-            Form4 foorm4 = new Form4();
-            foorm4.Show();
+            this.Close();
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -41,9 +64,10 @@ namespace project
             foorm1.Show();
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
+        private void pictureBox2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Form4 foorm4 = new Form4();
+            foorm4.Show();
         }
     }
 }

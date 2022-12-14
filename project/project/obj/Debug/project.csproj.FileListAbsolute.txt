@@ -48,3 +48,6 @@ C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-
 C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form6.resources
 C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form8.resources
 C:\Users\suaad abduljalıl\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form9.resources
+C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form6.resources
+C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form8.resources
+C:\Users\Noor\Desktop\gorsel-programlama-donem-projesi-106-oyun-tasarim\project\project\obj\Debug\project.Form9.resources
