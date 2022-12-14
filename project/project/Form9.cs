@@ -30,7 +30,10 @@ namespace project
         private void pictureBox4_Click(object sender, EventArgs e)
         {
             Form1 form11 = new Form1();
+
             form11.Show();
+            this.Hide();
+
         }
     }
 }

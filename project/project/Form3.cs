@@ -24,21 +24,25 @@ namespace project
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Form4 foorm4 = new Form4();
-            Form3 foorm3 = new Form3();
-            {
-                if (checkBox1.Checked)
 
+            {
+                if (checkBox1.Checked != false)
+                {
+                    this.Close();
+
+                    Form4 foorm4 = new Form4();
                     foorm4.Show();
-                else
-                    MessageBox.Show("your answer is incorrect,try again");
-                foorm3.Show();
-                
+                }
+                else if (checkBox2.Checked == true || checkBox3.Checked == true)
+                {
+                    MessageBox.Show("erorr");
+                }
+
 
 
             }
-            
+
+
         }
 
 

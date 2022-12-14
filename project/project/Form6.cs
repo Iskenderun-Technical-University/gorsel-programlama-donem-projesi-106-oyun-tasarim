@@ -183,6 +183,7 @@ namespace project
                         // stop the timer
                         MessageBox.Show("you died!" + Environment.NewLine + "click ok to play again");
                         // show the message box
+
                         RestartGame();
                     }
                 }
@@ -295,6 +296,16 @@ namespace project
         }
 
         private void background6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox20_Click(object sender, EventArgs e)
         {
 
         }
