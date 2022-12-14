@@ -25,8 +25,17 @@ namespace project
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            Form6 foorm6 = new Form6();
-            foorm6.Show();
+            if (checkBox1.Checked != false)
+            {
+                this.Close();
+
+                Form6 foorm6 = new Form6();
+                foorm6.Show();
+            }
+            else if (checkBox2.Checked == true || checkBox3.Checked == true)
+            {
+                MessageBox.Show("erorr");
+            }
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -44,6 +53,11 @@ namespace project
         private void pictureBox5_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
